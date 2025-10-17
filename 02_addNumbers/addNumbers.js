@@ -4,7 +4,7 @@ function addNumbers() {
 
   let result;
 
-  result = "a" + "b"; // <------ EDIT THIS LINE
+  result = a + b; // <------ EDIT THIS LINE. Solución: Se quitaron las comillas dobles a las variables.
 
   return result;
 }
